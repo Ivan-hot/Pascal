@@ -1,4 +1,5 @@
-﻿Var a, b, c, m: integer;
+Var 
+a, b, c, m: integer;
 Begin
 Readln (a, b, c);
 a:=a div 1;
