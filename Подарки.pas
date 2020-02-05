@@ -1,4 +1,4 @@
-Var 
+Var
 a, b, c, m: integer;
 Begin
 Readln (a, b, c);
